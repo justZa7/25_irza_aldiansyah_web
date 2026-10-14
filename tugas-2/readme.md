@@ -1,3 +1,6 @@
+#### Nama:
+#### NIM:
+
 1. div digunakan untuk membungkus banyak elemen menjadi satu
 2. pada dasarnya id dan class memiliki fungsi yang sama yaitu memberikan sebuah identitas pada elemen
 3. hampir sedikit perubahan yang terlihat, hanya teks dan background nya yang berubah
