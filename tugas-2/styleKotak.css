@@ -1,0 +1,26 @@
+body {
+    background: url('aset/thumb1.png'), url('aset/thumb2.png');
+    background-repeat: no-repeat;
+    color: white;
+}
+
+h1 {
+    color: orange;
+    font-family: Trebuchet MS;
+    text-align: center;
+}
+
+.kotak {
+    padding: 50px;
+    width: 100px;
+    color: #fff;
+    margin: 10px;
+    background-color: orange;
+}
+
+#kotak {
+    width: 400px;
+    color: #fff;
+    background-color: blue;
+    padding: 50px;
+}
